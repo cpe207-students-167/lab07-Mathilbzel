@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : บัวชมพู ฤกษ์สุทธิรัตน์
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Mathilbzel/
 
 ---
 
